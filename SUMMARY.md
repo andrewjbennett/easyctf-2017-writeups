@@ -8,14 +8,15 @@
   * [Genius \[230 points\]](/cryptography/genius-230-points.md)
   * [Paillier Service \[400 points\]](/cryptography/paillier-service-400-points.md)
 * [Forensics](forensics.md)
+  * [Serial \[300 points\]](/forensics/serial-300-points.md)
+  * [Decomphose \[325 points\]](/forensics/decomphose-325-points.md)
 * [Programming](programming.md)
   * [Hello, world! \[10 points\]](programming/hello-world-10-points.md)
+  * [Fzz Buzz 2 \[200 points\]](/programming/fzz-buzz-2-200-points.md)
   * [Match Me \[300 points\]](/programming/match-me-300-points.md)
 * [Reverse Engineering](reverse-engineering.md)
   * [Useless Python \[50 points\]](/reverse-engineering/useless-python-50-points.md)
   * [Phunky Python II \[115 points\]](/reverse-engineering/phunky-python-ii-115-points.md)
   * [67k \[400 points\]](reverse-engineering/67k-400-points.md)
 * [Web](web.md)
-
-
-
+  * [Cookie Blog \[30 points\]](/web/cookie-blog-30-points.md)
